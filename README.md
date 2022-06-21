@@ -9,6 +9,7 @@
 
 - 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1nWyAUmwtBSLW17Kptg66yv_q14JXj-47/edit?usp=sharing&ouid=101911150244059699323&rtpof=true&sd=true)
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faris-abuali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faris-abuali" height="30" width="40" /></a>
@@ -19,7 +20,7 @@
 
 
 <!-- ----------- Start Languages and Tools ----------- -->
-### Languages and Tools:
+### Languages & Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,11 +51,15 @@
 
 
 
+### Statistics:
 <!--  Stats -->
-![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true)
-<!--  Streak Stats -->
-![Faris's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali)
-<!--  Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali&theme=dracula" />
+</>
+<p align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=compact&theme=dracula" />
+</>
+<hr />
 <!--  Profile Views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=faris-abuali&label=Profile%20views&color=0e75b6&style=flat" alt="faris-abuali" /> </p>
+<p align="center"> <img width="15%" src="https://komarev.com/ghpvc/?username=faris-abuali&color=ff69b4&style=for-the-badge&label=Faris%27s+profile+views" alt="faris-abuali-profile-views" /> </p>
