@@ -62,4 +62,4 @@
 </>
 <hr />
 <!--  Profile Views -->
-<p align="center"> <img width="15%" src="https://komarev.com/ghpvc/?username=faris-abuali&color=ff69b4&style=for-the-badge&label=Faris%27s+profile+views" alt="faris-abuali-profile-views" /> </p>
+<p align="center"> <img width="20%" src="https://komarev.com/ghpvc/?username=faris-abuali&color=ff69b4&style=for-the-badge&label=Faris%27s+profile+views" alt="faris-abuali-profile-views" /> </p>
