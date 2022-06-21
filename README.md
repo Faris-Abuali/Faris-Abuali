@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faris H. Abuali</h1>
-<h3 align="center">A passionate fullstack developer from Palestine</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 
 
@@ -50,16 +50,11 @@
 
 
 
-
-
-<p style="display:flex;justify-content:space-around;align-items:center;background-color:green">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true&locale=en" alt="faris-abuali" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali&" alt="faris-abuali" />
-</p>
-
-
-<p style="display:flex"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faris-abuali&show_icons=true&locale=en&layout=compact" alt="faris-abuali" /></p>
-
+<!--  Stats -->
+![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true)
+<!--  Streak Stats -->
+![Faris's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali)
+<!--  Most Used Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  Profile Views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=faris-abuali&label=Profile%20views&color=0e75b6&style=flat" alt="faris-abuali" /> </p>
-
-
