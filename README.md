@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **flawless.faris@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1nWyAUmwtBSLW17Kptg66yv_q14JXj-47/edit?usp=sharing&ouid=101911150244059699323&rtpof=true&sd=true)
+- 📄 Know about my experiences [**CV**](https://docs.google.com/document/d/1nWyAUmwtBSLW17Kptg66yv_q14JXj-47/edit?usp=sharing&ouid=101911150244059699323&rtpof=true&sd=true)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -57,9 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true&theme=dracula" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali&theme=dracula" />
 </>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=compact&theme=dracula" />
-</>
+</> -->
 <hr />
 <!--  Profile Views -->
-<p align="center"> <img width="22%" src="https://komarev.com/ghpvc/?username=faris-abuali&color=ff69b4&style=flat-square&label=Faris%27s+profile+views" alt="faris-abuali-profile-views" /> </p>
+<p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=faris-abuali&color=ff69b4&style=flat-square&label=Faris%27s+profile+views" alt="faris-abuali-profile-views" /> </p>
