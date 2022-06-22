@@ -58,7 +58,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali&theme=dracula" />
 </>
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=compact&theme=dracula" />
 </>
 <hr />
 <!--  Profile Views -->
