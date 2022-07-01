@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faris H. Abuali</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate computer systems engineer</h3>
 
 
 
