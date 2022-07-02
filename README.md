@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [**CV**](https://docs.google.com/document/d/1nWyAUmwtBSLW17Kptg66yv_q14JXj-47/edit?usp=sharing&ouid=101911150244059699323&rtpof=true&sd=true)
 
+- 💬 Remember to keep strivig for progress over perfection. A little progress everyday will go a very long way
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
