@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **EVERYTHING 🙂**
+- 🌱 I’m currently learning **ReactJS in depth, Redux Saga, React Query**
 
 - 📫 How to reach me **flawless.faris@gmail.com**
 
