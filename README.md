@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS in depth, Redux Saga, React Query**
 
-- 📫 How to reach me **flawless.faris@gmail.com**
+- 📫 How to reach me **Faris-Abuali@outlook.com**
 
 - 📄 Know about my experiences [**CV**](https://docs.google.com/document/d/1nWyAUmwtBSLW17Kptg66yv_q14JXj-47/edit?usp=sharing&ouid=101911150244059699323&rtpof=true&sd=true)
 
