@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS in depth, Redux Saga, React Query**
+- 🌱 I’m currently learning **React in depth with TypeScript, Redux Saga, React Query, React-table, and React Design Patterns**
 
 - 📫 How to reach me **Faris-Abuali@outlook.com**
 
