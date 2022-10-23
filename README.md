@@ -58,7 +58,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true&theme=dracula" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali&theme=dracula" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=default&theme=dracula" />
 </p>
 
 <hr />
