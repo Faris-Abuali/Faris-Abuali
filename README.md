@@ -59,9 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true&theme=dracula" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali&theme=dracula" />
 </>
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris-abuali&layout=compact&theme=dracula" />
-</> -->
+</>
 <hr />
 <!--  Profile Views -->
 <p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=faris-abuali&color=ff69b4&style=flat-square&label=Faris%27s+profile+views" alt="faris-abuali-profile-views" /> </p>
