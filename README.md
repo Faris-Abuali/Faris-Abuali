@@ -19,7 +19,9 @@
 
 - 📄 Know about my experiences [**CV**](https://docs.google.com/document/d/1nWyAUmwtBSLW17Kptg66yv_q14JXj-47/edit?usp=sharing&ouid=101911150244059699323&rtpof=true&sd=true)
 
-- 💬 Remember to keep striving for progress over perfection. A little progress everyday will go a very long way
+- 💬 Remember to keep striving for progress over perfection. A little progress everyday will go a very long way 🛣️
+- 💬 The quickest way to succeed is to start now and figure it out as you go. You can’t learn to drive in a parked car 🚘
+- 💬 I learned a lot from my mistakes, so I decided to make more mistakes to learn more 😶‍🌫️
 
 
 <h3 align="left">Connect with me:</h3>
