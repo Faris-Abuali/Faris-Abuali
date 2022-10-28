@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Faris H. Abuali</h1>
 <h3 align="center">A passionate computer systems engineer</h3>
+<h4 align="center">and Frontend Software Engineer at Foothill Technology Solutions, LLC</h4>
 
 <div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/54215462/198722458-9f2a5a76-2047-41e3-80bb-f5b431391a6f.png"
-    alt="Foothill Solutions Logo"
-    width="300px"
-    height="300px"
-  />
+  <a href="https://www.foothillsolutions.com/">
+    <img 
+      src="https://user-images.githubusercontent.com/54215462/198722458-9f2a5a76-2047-41e3-80bb-f5b431391a6f.png"
+      alt="Foothill Solutions Logo"
+      width="300px"
+      height="300px"
+    />
+  </a>
 </div>
 
 - 🌱 I’m currently learning **React in depth with TypeScript, Redux Saga, React Query, React-table, and React Design Patterns**
