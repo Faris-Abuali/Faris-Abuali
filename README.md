@@ -180,6 +180,8 @@ target="blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faris-abuali&theme=dracula" />
 </p>
 
-<hr />
+<!-- <hr /> -->
 <!--  Profile Views -->
+<!--  
 <p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=faris-abuali&color=ff69b4&style=flat-square&label=Faris%27s+profile+views" alt="faris-abuali-profile-views" /> </p>
+-->
