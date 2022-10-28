@@ -129,8 +129,9 @@ target="blank">
 
 ##### React
 
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge)
-![React MUI](https://img.shields.io/badge/-MUI-61DAFB?logo=mui&color=blue&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61dbfb?logo=react&logoColor=black&style=for-the-badge)
+![React MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&color=blue&logoColor=white&style=for-the-badge)
+![BluePrint](https://img.shields.io/badge/-BluePrint-31b3e9?logo=blueprint&logoColor=white&style=for-the-badge)
 ![React Query](https://img.shields.io/badge/-react%20query-ff4154?logo=reactquery&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-redux-764abc?logo=redux&logoColor=white&style=for-the-badge)
 ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-89D96D?logo=redux%20saga&logoColor=black&style=for-the-badge)
