@@ -23,8 +23,8 @@
 - 💬 The quickest way to succeed is to start now and figure it out as you go. You can’t learn to drive in a parked car 🚘
 - 💬 I learned a lot from my mistakes, so I decided to make more mistakes to learn more 😶‍🌫️
 
-
-<h3 align="left">Connect with me:</h3>
+<!-- ----------- Start How to Connect ----------- -->
+<h3 align="left">Social 🦜</h3>
 <p align="left">
 <a 
 href="https://linkedin.com/in/faris-abuali" 
@@ -58,7 +58,7 @@ href="https://dev.to/farisabuali"
 target="blank">
   <img 
     align="center" 
-    src="https://img.shields.io/badge/-dev-black?logo=dev&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
     alt="faris-abuali" 
    />
 </a>
@@ -71,11 +71,20 @@ target="blank">
     alt="faris-abuali" 
    />
 </a>
-
-
+<a 
+href="https://www.reddit.com/user/Fairs-Abuali" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge"
+    alt="faris-abuali" 
+   />
+</a>
+<hr />
+<!-- ----------- End Social ----------- -->
 
 <!-- ----------- Start Languages and Tools ----------- -->
-### Languages & Tools:
+### Skills 🤹🏻‍♂️
 ##### JS & TS
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -118,9 +127,9 @@ target="blank">
 
 <!-- ----------- End Languages and Tools ----------- -->
 
+<hr />
 
-
-### Statistics:
+### Statistics 📊
 <!--  Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true&theme=dracula" />
