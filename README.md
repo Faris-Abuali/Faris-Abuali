@@ -13,7 +13,8 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning **React in depth with TypeScript, Redux Saga, React Query, React-table, and React Design Patterns**
+- 🌱 I’m currently learning **React in depth with TypeScript,
+  Saga, React Query, React-table, and React Design Patterns**
 
 - 📫 How to reach me **Faris-Abuali@outlook.com**
 
@@ -58,7 +59,7 @@ href="https://dev.to/farisabuali"
 target="blank">
   <img 
     align="center" 
-    src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+    src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge"
     alt="faris-abuali" 
    />
 </a>
@@ -80,47 +81,89 @@ target="blank">
     alt="faris-abuali" 
    />
 </a>
-<hr />
+<a 
+href="https://gitlab.com/Faris-Abuali" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/-GitLab-black?logo=gitlab&logoColor=white&style=for-the-badge"
+    alt="faris-abuali" 
+   />
+</a>
 <!-- ----------- End Social ----------- -->
 
+<hr />
+
+<!-- ----------- Start Email ----------- -->
+<h3 align="left">Email 📩</h3>
+<a 
+href="mailto:Faris-Abuali@outlook.com" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"
+    alt="faris-abuali" 
+   />
+</a>
+<a 
+href="mailto:fareshatem.fh@gmail.com" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"
+    alt="faris-abuali" 
+   />
+</a>
+<!-- ----------- End Email ----------- -->
+
+<hr />
+
 <!-- ----------- Start Languages and Tools ----------- -->
+
 ### Skills 🤹🏻‍♂️
+
 ##### JS & TS
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
 
-##### React 
+##### React
+
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge)
 ![React MUI](https://img.shields.io/badge/-MUI-61DAFB?logo=mui&color=blue&logoColor=white&style=for-the-badge)
 ![React Query](https://img.shields.io/badge/-react%20query-ff4154?logo=reactquery&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-redux-764abc?logo=redux&logoColor=white&style=for-the-badge)
+![Redux Saga](https://img.shields.io/badge/-Redux_Saga-89D96D?logo=redux%20saga&logoColor=black&style=for-the-badge)
 ![Storybook](https://img.shields.io/badge/-storybook-ff528c?logo=storybook&logoColor=white&style=for-the-badge)
 
 ##### Node 💚
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ##### Package Managers 📦
+
 ![NPM](https://img.shields.io/badge/-npm-lightgrey?logo=npm&logoColor=white&style=for-the-badge)
 ![Yarn](https://img.shields.io/badge/-yarn-steelblue?logo=yarn&logoColor=white&style=for-the-badge)
 
 ##### Module Bundlers 🗃️
+
 ![Webpack](https://img.shields.io/badge/-webpack-8ed5fa?logo=webpack&logoColor=1c78c0&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-vite-BB36FE?logo=vite&logoColor=white&style=for-the-badge)
 
-
 ##### React Testing 🧪
+
 ![Jest](https://img.shields.io/badge/-jest-99415b?logo=jest&logoColor=white&style=for-the-badge)
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-fc4544?logo=testinglibrary&logoColor=white&style=for-the-badge)
 
-
 ##### Databases & ORMs🗄️
+
 ![SQL](https://img.shields.io/badge/-sql-black?logo=database&logoColor=white&style=for-the-badge)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 ##### Others ⚒️
+
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge)
@@ -130,6 +173,7 @@ target="blank">
 <hr />
 
 ### Statistics 📊
+
 <!--  Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faris-abuali&show_icons=true&theme=dracula" />
