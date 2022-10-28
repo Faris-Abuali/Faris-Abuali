@@ -26,41 +26,96 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faris-abuali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faris-abuali" height="30" width="40" /></a>
-<a href="https://fb.com/faris.h.abuali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faris.h.abuali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCnyRDZ9n_X0SzMb-TGiqtXQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnyrdz9n_x0szmb-tgiqtxq" height="30" width="40" /></a>
-<a href="https://codepen.io/https://codepen.io/fares-abuali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/fares-abuali" height="30" width="40" /></a>
-</p>
+<a 
+href="https://linkedin.com/in/faris-abuali" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="faris-abuali" 
+   />
+</a>
+<a 
+href="https://www.facebook.com/Faris.H.Abuali/" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="faris-abuali" 
+   />
+</a>
+<a 
+href="https://www.youtube.com/channel/UCnyRDZ9n_X0SzMb-TGiqtXQ" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/-youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+    alt="faris-abuali" 
+   />
+</a>
+<a 
+href="https://dev.to/farisabuali" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/-dev-black?logo=dev&logoColor=white&style=for-the-badge"
+    alt="faris-abuali" 
+   />
+</a>
+<a 
+href="https://www.researchgate.net/profile/Faris-H-Abuali" 
+target="blank">
+  <img 
+    align="center" 
+    src="https://img.shields.io/badge/-Research%20Gate-00ccbb?logo=researchgate&logoColor=white&style=for-the-badge"
+    alt="faris-abuali" 
+   />
+</a>
+
 
 
 <!-- ----------- Start Languages and Tools ----------- -->
 ### Languages & Tools:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+##### JS & TS
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
+
+##### React 
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge)
+![React MUI](https://img.shields.io/badge/-MUI-61DAFB?logo=mui&color=blue&logoColor=white&style=for-the-badge)
+![React Query](https://img.shields.io/badge/-react%20query-ff4154?logo=reactquery&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-redux-764abc?logo=redux&logoColor=white&style=for-the-badge)
+![Storybook](https://img.shields.io/badge/-storybook-ff528c?logo=storybook&logoColor=white&style=for-the-badge)
+
+##### Node 💚
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+##### Package Managers 📦
+![NPM](https://img.shields.io/badge/-npm-lightgrey?logo=npm&logoColor=white&style=for-the-badge)
+![Yarn](https://img.shields.io/badge/-yarn-steelblue?logo=yarn&logoColor=white&style=for-the-badge)
+
+##### Module Bundlers 🗃️
+![Webpack](https://img.shields.io/badge/-webpack-8ed5fa?logo=webpack&logoColor=1c78c0&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-vite-BB36FE?logo=vite&logoColor=white&style=for-the-badge)
+
+
+##### React Testing 🧪
+![Jest](https://img.shields.io/badge/-jest-99415b?logo=jest&logoColor=white&style=for-the-badge)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-fc4544?logo=testinglibrary&logoColor=white&style=for-the-badge)
+
+
+##### Databases & ORMs🗄️
+![SQL](https://img.shields.io/badge/-sql-black?logo=database&logoColor=white&style=for-the-badge)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+##### Others ⚒️
+![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101&style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge)
+
 <!-- ----------- End Languages and Tools ----------- -->
 
 
