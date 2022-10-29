@@ -122,12 +122,12 @@ target="blank">
 
 ### Skills 🤹🏻‍♂️
 
-##### JS & TS
+##### JS & TS 🟡🔵
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
 
-##### React
+##### React 💙
 
 ![React](https://img.shields.io/badge/-React-61dbfb?logo=react&logoColor=black&style=for-the-badge)
 ![React MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&color=blue&logoColor=white&style=for-the-badge)
