@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faris H. Abuali</h1>
 <h3 align="center">A passionate computer systems engineer</h3>
-<h4 align="center">and Frontend Software Engineer at Foothill Technology Solutions, LLC</h4>
+<h4 align="center">and Frontend Software Developer at Foothill Technology Solutions, LLC</h4>
 
 <div align="center">
   <a href="https://www.foothillsolutions.com/">
