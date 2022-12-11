@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faris H. Abuali</h1>
-<h3 align="center">A passionate computer systems engineer</h3>
+<h3 align="center">A passionate Computer Systems Engineer</h3>
 <h4 align="center">and Frontend Software Developer at Foothill Technology Solutions, LLC</h4>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </div>
 
 - 🌱 I’m currently learning **React in depth with TypeScript,
-  Saga, React Query, React-table, and React Design Patterns**
+  Saga, React Query, React-table, React Design Patterns, and ASP.NET with Entity Framework**
 
 - 📫 How to reach me **Faris-Abuali@outlook.com**
 
