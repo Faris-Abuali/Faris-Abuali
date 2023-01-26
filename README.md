@@ -106,7 +106,7 @@ target="blank">
    />
 </a>
 <a 
-href="mailto:fareshatem.fh@gmail.com" 
+href="mailto:flawless.faris@gmail.com" 
 target="blank">
   <img 
     align="center" 
