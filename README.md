@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **React in depth with TypeScript,
   Saga, React Query, React-table, React Design Patterns, and ASP.NET with Entity Framework**
 
-- 📫 How to reach me **Faris-Abuali@outlook.com**
+- 📫 How to reach me **faris.abuali@outlook.com**
 
 - 📄 Know about my experiences [**CV**](https://docs.google.com/document/d/1nWyAUmwtBSLW17Kptg66yv_q14JXj-47/edit?usp=sharing&ouid=101911150244059699323&rtpof=true&sd=true)
 
