@@ -157,6 +157,26 @@ target="blank">
 ![Jest](https://img.shields.io/badge/-jest-99415b?logo=jest&logoColor=white&style=for-the-badge)
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-fc4544?logo=testinglibrary&logoColor=white&style=for-the-badge)
 
+##### ASP.Net
+<img 
+  src="https://github.com/Faris-Abuali/Faris-Abuali/assets/54215462/d77d16a5-0db6-405e-b537-c15e916f2ebb"
+  alt="ASP.Net"
+  width="70px"
+  height="70px"
+/>
+<img 
+  src="https://github.com/Faris-Abuali/Faris-Abuali/assets/54215462/5c3513b0-ccfb-475a-bd88-52e627773266"
+  alt="Entity Framework Core"
+  width="70px"
+  height="70px"
+/>
+<img 
+  src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg"
+  alt="Microsoft SQL Server"
+  width="90px"
+  height="90px"
+/>
+
 ##### Databases & ORMs🗄️
 
 ![SQL](https://img.shields.io/badge/-sql-black?logo=database&logoColor=white&style=for-the-badge)
