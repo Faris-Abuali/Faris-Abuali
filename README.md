@@ -16,8 +16,7 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning **React in depth with TypeScript,
-  Saga, React Query, React-table, React Design Patterns, and ASP.NET with Entity Framework**
+- 🌱 I’m currently learning **Everything**
 
 - 📫 How to reach me **faris.abuali@outlook.com**
 
