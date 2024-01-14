@@ -1,3 +1,4 @@
+[![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://techforpalestine.org/learn-more)
 [![committers.top badge](https://user-badge.committers.top/palestine_public/Faris-Abuali.svg)](https://user-badge.committers.top/palestine_public/Faris-Abuali)
 [![committers.top badge](https://user-badge.committers.top/palestine/Faris-Abuali.svg)](https://user-badge.committers.top/palestine/Faris-Abuali)
 
